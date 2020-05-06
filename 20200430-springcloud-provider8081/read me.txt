@@ -1,0 +1,1 @@
+provider8081, provider8082, provider8083配置的集群版eureka

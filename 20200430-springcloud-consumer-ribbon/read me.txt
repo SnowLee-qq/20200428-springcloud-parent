@@ -1,0 +1,2 @@
+ribbon的负载均衡：
+    对provider8081，provider8082，provider8083进行负载均衡

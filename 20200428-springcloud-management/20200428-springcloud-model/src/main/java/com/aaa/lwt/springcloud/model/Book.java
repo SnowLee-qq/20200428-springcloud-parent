@@ -1,0 +1,24 @@
+package com.aaa.lwt.springcloud.model;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+
+import java.io.Serializable;
+import java.math.BigDecimal;
+
+@Data
+@ToString
+@AllArgsConstructor
+@NoArgsConstructor
+public class Book implements Serializable {
+    private Long bookId;
+
+    private String bookName;
+
+    private Integer bookStore;
+
+    private BigDecimal bookPrice;
+
+}

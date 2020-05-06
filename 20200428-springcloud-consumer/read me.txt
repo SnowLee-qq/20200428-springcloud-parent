@@ -1,0 +1,1 @@
+这是RPC的springcloud，即restful风格调用的数据
